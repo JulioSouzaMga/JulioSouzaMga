@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JulioSouzaMga
-- 👀 I’m interested in  programação JAVA ...
-- 🌱 I’m currently learning Linguagem JAVA
-- 📫 Analizo codigo em JAVA sem custo
-- Email: juliosouzamga@gmail.com
+👋 Oi sou @JulioSouzaMga
+👀 Tenho interesse em programação JavaScript, node, RPA ...
+🌱 Atualmente estou aprendendo Linguagem JavaScript
+📫 Email: juliosouzamga@gmail.com
